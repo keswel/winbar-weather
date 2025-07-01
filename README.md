@@ -1,6 +1,7 @@
 # winbar-weather
 
 A lightweight C++ plugin for Winbar that provides weather tracking functionality.
+![image](https://github.com/user-attachments/assets/ee2ad7e8-4640-46c5-96a1-86149175082a)
 
 # How it works
 
