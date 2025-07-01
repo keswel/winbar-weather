@@ -43,7 +43,7 @@ int main() {
 
     while (true) {
       update_winbar(grab_temperature());
-      std::this_thread::sleep_for(std::chrono::seconds(2));
+      std::this_thread::sleep_for(std::chrono::minutes(3));
     }
     return 0;
 }
